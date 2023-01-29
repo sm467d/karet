@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+.container {
+  background-image: url('./components/karet3.png');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.form {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
+
+
+.input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.submit-button {
+  background-color: #3498db;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.submit-button:hover {
+  background-color: #2980b9;
+}
