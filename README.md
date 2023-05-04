@@ -1,5 +1,7 @@
 # Karet - Astronomy for All
 
+See our HoyaHacks2023 Submission! https://youtu.be/x57r54HSsVU
+
 Karet is an application designed to make astronomy accessible to people of all levels of interest. It provides scheduled notifications for celestial events such as meteor showers, eclipses, and constellations. Karet aggregates data from 5 astronomical APIs to create a comprehensive database of event notifications. It also integrates "Galileo", a generative transformer model fine-tuned on celestial data sets to provide insights into all things astronomy via SMS.
 
 ## Inspiration
